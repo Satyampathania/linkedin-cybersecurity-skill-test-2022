@@ -30,6 +30,7 @@ An intrusion detection system (IDS) is a device or software application that mon
 
 Quizlet
 
+
 Q5. Packet sniffer is also called _.
 SIEM
 UTM
